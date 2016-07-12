@@ -13,7 +13,6 @@ s = {"com.gameloft.android.ANMP.GloftA8HM"}
 done = {"first"}
 err = {"first"}
 queue.put("com.gameloft.android.ANMP.GloftA8HM")
-#queue.put("com.greedygame.deathsprint")
 #queue.put("com.outfit7.mytalkingtomfree")
 #queue.put("com.FDGEntertainment.redball4.gp")
 
